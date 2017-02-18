@@ -1,0 +1,92 @@
+/* Color scheme:
+   Color palette: http://colrd.com/palette/22444/?download=css
+
+   Darker Background: #f4a32e
+   Lighter Background: #ffcc88
+   Text: #043227
+   Title: #fa482e
+   Links: #097168
+ */
+
+body {
+    background-color: #ffcc88;
+    margin: 1em;
+    padding: 1em;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    color: #043227;
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    line-height: 1.3em;
+}
+
+hr {
+    width: 50%;
+    border-color: #f4a32e;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+a {
+    color: #4e2d13;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.4em;
+    line-height: 2.4em;
+}
+
+p::first-letter {
+    font-size: 160%;
+    font-weight: bold;
+}
+
+p.toc a {
+    line-height: 1em;
+
+}
+
+p > a {
+    display: block;
+}
+
+p.toc::first-letter, p > a::first-letter {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+b {
+    display: block;
+}
+
+p.toc big b::first-letter {
+    font-weight: bold;
+}
+
+div.fig {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    text-align: center;
+    display: inline-block;
+    border: 2px solid rgb(78, 45, 19);
+    box-shadow: 6px 10px 10px rgba(134,134,134,0.69);
+    -moz-box-shadow: 6px 10px 10px rgba(134,134,134,0.69);
+    -o-box-shadow: 6px 10px 10px rgba(134,134,134,0.69);
+    -webkit-box-shadow: 6px 10px 10px rgba(134,134,134,0.69);
+}
+
+
