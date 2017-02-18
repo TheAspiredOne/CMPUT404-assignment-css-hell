@@ -66,6 +66,7 @@ Sources:
 Homepage
 
 good homepage 
+
 1. Nice contrast between background colour and text colour allows for relaxing read
 2. webpage is of an appropriate size for reading
 3. Choice of colour is neutral and not irritating
@@ -74,12 +75,14 @@ good homepage
 
 
 bad homepage
+
 1. background colours are irritating to view for long periods of time
 2. font is hard to read due to both colour and the actual font used
 3. font is too large
 4. webpage is disorganized and messy
 
 Sources:
+
 1. Colour pallette: https://color.adobe.com/create/color-wheel/
 2. HTML/CSS Tutorials: http://www.w3schools.com/
 3. HTML/CSS Tutorials: https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
